@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "cli-table3": "^0.6.4",
+    "inquirer": "^9.2.19",
+    "inquirer-autocomplete-prompt": "^3.0.1"
+  }
+}
