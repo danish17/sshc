@@ -119,7 +119,7 @@ function removeEntry() {
           type: "autocomplete",
           name: "key",
           message: "Select the connection you wish to remove:",
-          source: (answers, input) =>
+          source: (_answers, input) =>
             Promise.resolve(formatChoiceOptions(data, input)),
         },
         {
