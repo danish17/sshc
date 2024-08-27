@@ -1,11 +1,11 @@
 {
-  "name": "simple-ssh-manager",
+  "name": "sshc",
   "displayName": "Simple SSH Manager CLI",
-  "description": "Simple CLI manager to maintain SSH hostnames and connect to them.",
-  "version": "1.0.1",
+  "description": "Simple CLI SSH manager with options to add, remove, and modify connections.",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danish17/ssh_manager.git"
+    "url": "git+https://github.com/danish17/sshc.git"
   },
   "categories": [
     "Snippets"
