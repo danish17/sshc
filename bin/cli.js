@@ -1,3 +1,3 @@
 #!/usr/bin/env node
-import { mainMenu } from '../sshConnect.js';
+import { mainMenu } from '../index.js';
 mainMenu();

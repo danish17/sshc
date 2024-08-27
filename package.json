@@ -2,7 +2,7 @@
   "name": "simple-sshc",
   "displayName": "Simple SSH Manager CLI",
   "description": "Simple CLI SSH manager with options to add, remove, and modify connections.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/danish17/sshc.git"
@@ -10,13 +10,17 @@
   "categories": [
     "Snippets"
   ],
+  "keywords": [
+    "cli",
+    "ssh manager"
+  ],
   "author": {
     "name": "Danish Shakeel",
     "email": "danishshakeel54@gmail.com",
     "url": "https://iamdani.sh"
   },
   "type": "module",
-  "main": "sshConnect.js",
+  "main": "index.js",
   "bin": {
     "sshc": "bin/cli.js"
   },
