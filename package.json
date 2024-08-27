@@ -1,5 +1,5 @@
 {
-  "name": "ssh-manager-cli",
+  "name": "@danish17/sshc",
   "displayName": "Simple SSH Manager CLI",
   "description": "Simple CLI SSH manager with options to add, remove, and modify connections.",
   "version": "1.0.0",
