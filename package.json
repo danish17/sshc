@@ -3,6 +3,10 @@
   "displayName": "Simple SSH Manager CLI",
   "description": "Simple CLI manager to maintain SSH hostnames and connect to them.",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danish17/ssh_manager.git"
+  },
   "categories": [
     "Snippets"
   ],
