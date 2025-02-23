@@ -1,4 +1,4 @@
-# SSH Connection Manager
+# SSHC: Command-line SSH Connection Manager
 
 Developed as a personal project, this utility focuses on handling the storage, modification, and selection of SSH connection details without storing passwords.
 
